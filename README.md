@@ -1,7 +1,11 @@
 # MMM-Bubbly
-A module for MagicMirror which adds bubbles to the background.
+A module for [MagicMirror²](https://magicmirror.builders/) which adds bubbles to the background.
 
 Uses [bubbly-bg](https://github.com/tipsy/bubbly-bg)
+
+## Screenshot
+
+*![screenshot](screenshot.png)*
 
 ## Installation
 
